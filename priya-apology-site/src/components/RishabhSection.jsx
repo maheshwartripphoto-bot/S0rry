@@ -12,14 +12,12 @@ export default function RishabhSection() {
         <div className="mt-4 font-hand text-lg sm:text-xl leading-relaxed text-plum space-y-3">
           <p>Priya, I know sometimes you get scared that you might lose Rishabh.</p>
           <p>And as your friend, I just want you to breathe for a second.</p>
-          <p className="font-bold text-rose">From everything I've seen, Rishabh really cares about you. ❤️</p>
+          <p className="font-bold text-rose">From everything I've seen, Rishabh will Actually care for you very soon. ❤️</p>
           <p>He's not going anywhere that I can tell.</p>
           <p>You don't have to spend every moment worrying about losing him.</p>
-          <p>Relationships have fights. People get gussa. Things get complicated sometimes.</p>
-          <p>But one bad moment doesn't automatically mean you're going to lose someone you love.</p>
-          <p>So please don't let your fear make everything feel worse than it actually is.</p>
+          <p>He will do for you whatevr you want,</p>
           <p>Take a breath. Talk when you're ready.</p>
-          <p>And remember: Rishabh is still Rishabh, and as far as I can tell, that hasn't changed. ❤️</p>
+          <p>He will give youlove respect care and sex.</p>
         </div>
       </Reveal>
 
@@ -29,7 +27,6 @@ export default function RishabhSection() {
           <p className="font-bold">Rishabh isn't showing signs of disappearing.</p>
           <p>You don't need to panic.</p>
           <p>Breathe. 🫂</p>
-          <p>One fight isn't the whole relationship.</p>
         </div>
         <p className="mt-4 text-sm text-plum/60">
           Now stop overthinking before I have to build version 2 of this website. 😭
