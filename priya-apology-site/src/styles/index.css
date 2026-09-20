@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background: linear-gradient(180deg, #fff8fb 0%, #fdf4ff 40%, #f3f8ff 100%);
+  color: #4a3350;
+  overflow-x: hidden;
+}
+
+h1, h2, .font-hand {
+  font-family: 'Caveat', cursive;
+}
+
+.sticky-note {
+  box-shadow: 0 10px 25px -8px rgba(91, 58, 92, 0.25);
+}
+
+.paper-card {
+  background: #fffdf9;
+  border-radius: 1.25rem;
+  box-shadow: 0 12px 30px -12px rgba(91, 58, 92, 0.22);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #f3b6c9;
+  border-radius: 999px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+:focus-visible {
+  outline: 3px solid #e85d75;
+  outline-offset: 3px;
+}
